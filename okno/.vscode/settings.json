@@ -1,0 +1,15 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.showToolbar": "never",
+  "editor.suggest.preview": false,
+  "editor.inlayHints.enabled": "off",
+  "editor.codeLens": false,
+  "git.blame.editorDecoration.enabled": false,
+  "gitlens.currentLine.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "antigravity.tab.enabled": false,
+  "antigravity.autocomplete.enabled": false
+}
